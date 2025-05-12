@@ -82,6 +82,8 @@ Customer segmentation was performed using **RFM (Recency, Frequency, Monetary)**
 ## Tableau
 
 ![image](https://github.com/user-attachments/assets/4a01a8d8-f884-45d9-a966-d27085c40911)
+![image](https://github.com/user-attachments/assets/18e79159-9d6e-4b72-80e7-563cced6711a)
+
 
 
   
