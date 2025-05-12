@@ -79,3 +79,10 @@ Customer segmentation was performed using **RFM (Recency, Frequency, Monetary)**
 * Python (Data Cleaning ,Analysis & Visualization)
 * Tableau (Visual Analysis)
 
+## Tableau
+
+![image](https://github.com/user-attachments/assets/4a01a8d8-f884-45d9-a966-d27085c40911)
+
+
+  
+
